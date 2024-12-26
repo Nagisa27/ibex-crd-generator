@@ -1,15 +1,8 @@
 {
-    "name": "asesi/ibex-crd-generator",
-    "description": "Generador CRD para proyectos PHP.",
-    "type": "library",
-    "authors": [
-      {
-        "name": "Nagisa",
-        "email": "davidats27@gmail.com"
-      }
-    ],
-    "require-dev": {
-      "ibex/crd-generator": "^1.0"
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/ibex/crd-generator"
     }
-  }
-  
+  ]
+}
